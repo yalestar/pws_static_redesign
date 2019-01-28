@@ -5,3 +5,12 @@ div.top-pad {
 div.top-pad-more {
   padding-top: 135px
 }
+
+.nav-item {
+  font-size: 20px;
+}
+
+table.photo-list td{
+  border: none;
+  font-weight: bold;
+}
