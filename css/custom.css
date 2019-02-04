@@ -14,3 +14,7 @@ table.photo-list td{
   border: none;
   font-weight: bold;
 }
+
+p.h5.sponsor-header {
+  color: #4286f4;
+}
