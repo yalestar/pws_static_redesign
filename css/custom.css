@@ -18,3 +18,21 @@ table.photo-list td{
 p.h5.sponsor-header {
   color: #4286f4;
 }
+
+.row-striped:nth-of-type(odd){
+  background-color: #efefef;
+  border-left: 4px #000000 solid;
+}
+
+.row-striped:nth-of-type(even){
+  background-color: #ffffff;
+  border-left: 4px #efefef solid;
+}
+
+.row-striped {
+    padding: 15px 0;
+}
+
+i.fa {
+  padding-right: 8px;
+}
